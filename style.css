@@ -1,0 +1,30 @@
+.align {
+    text-align: center;
+}
+.M {
+    text-align: center;
+}
+#img{
+    width: 60%;
+    height: 40%;
+}
+#fig{
+    color: grey;
+    font-style: italic ;
+}
+.para{
+    font-family: cursive;
+    color: rgb(99, 44, 5);
+    text-align: center;
+}
+.para2{
+    text-align: center;
+}
+#about{
+    color: blue;
+    text-align: center;
+}
+#Timeline{
+    color: rgb(22,70,158);
+}
+
